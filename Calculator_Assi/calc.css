@@ -1,0 +1,33 @@
+body{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    gap: 10px;
+   
+}
+.Container {
+   height: 250px;
+
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+input {
+    display: block;
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+/*Rule to remember
+.Container {
+    justify-content: center;
+    align-items: center;
+}
+display: flex affects only the direct children of that element.
+Default direction is flex-direction: row.
+If you don't want the children in one row, either:
+use flex-direction: column, or
+apply display: flex to a different parent (like body) that has only the element you want to center.*/
