@@ -318,7 +318,6 @@ Execute
 `getData()`
 
 ---
-
 # What is a Promise?
 
 A Promise represents a value that will be available in the future.
@@ -418,3 +417,8 @@ The same Fetch API is used in:
 - `await` waits until the request is completed.
 - `innerHTML` displays the received data on the webpage.
 - APIs allow applications to communicate and exchange data.
+  
+<img width="310" height="133" alt="image" src="https://github.com/user-attachments/assets/bb60606f-50b6-4586-8342-16e0b0299968" />
+
+
+<img width="852" height="381" alt="image" src="https://github.com/user-attachments/assets/10253dcd-435b-452a-9c75-fd2bd1551cbd" />
